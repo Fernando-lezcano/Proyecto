@@ -43,4 +43,4 @@ Asignar responsables para la redacción y revisión de minutas y demás document
 Revisar constantemente la carpeta de Plantillas en caso de actualizaciones.
 
 Contacto
-Para cualquier duda o inconveniente técnico con el uso del repositorio, contactar con el administrador del proyecto
+Para cualquier duda o inconveniente técnico con el uso del repositorio, contactar con el administrador del proyecto.
