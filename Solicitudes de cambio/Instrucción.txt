@@ -1,0 +1,2 @@
+En este apartado se colocan las solicitudes de cambio de los grupos siguiendo el siguiente formato:
+Solicitud (Número de la solicitudo) - (Número del grupo)
